@@ -20,6 +20,9 @@ return {
           ['\\'] = 'close_window',
         },
       },
+      filters = {
+        dotfiles = true,
+      },
     },
   },
 }
